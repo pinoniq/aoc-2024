@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/pinoniq/aoc/utils"
+	"github.com/pinoniq/aoc-2024/utils"
 	"sort"
 )
 

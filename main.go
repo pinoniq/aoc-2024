@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pinoniq/aoc/cmd"
+	"github.com/pinoniq/aoc-2024/cmd"
 	"time"
 )
 
