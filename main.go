@@ -20,7 +20,9 @@ func main() {
 	// cmd.Day5()
 	// cmd.Day5Bis()
 	// cmd.Day6()
-	cmd.Day6Bis()
+	// cmd.Day6Bis()
+	// cmd.Day7()
+	cmd.Day7Bis()
 
 	duration := time.Since(start)
 	fmt.Println(fmt.Sprintf("Time spent: %d ms", duration.Milliseconds()))
